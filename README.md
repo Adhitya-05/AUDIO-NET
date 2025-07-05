@@ -1,7 +1,7 @@
 # AudioNet - Winter Project Electrical Engineer's Association IIT Kanpur
 
 This repository contains the work done during the **Winter Project: AudioNet**, focusing on **audio signal processing, feature extraction, and deep learning-based classification**. The project covers various aspects of **audio classification** using **CNNs,RNNs, LSTMs**.
-
+https://docs.google.com/spreadsheets/d/1b0k4Y-_79_QmLz-HQt1ocbYDcDk0MojCM-dXa6X9g5U/edit?usp=sharing
 ## Project Structure
 
 - **Audio_Signal_Analysis**: Understanding Fourier Transform, STFT, and spectrograms for analyzing audio signals.
